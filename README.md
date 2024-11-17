@@ -56,6 +56,41 @@ This repository contains practical implementations of foundational algorithms as
 *Compare the performance of Dijkstra's and Bellman-Ford algorithms for the single-source shortest path problem.*  
 
 - **Description**:  
-  This lab covers two core shortest-path algorithms: **
+  This lab covers two core shortest-path algorithms: **Dijkstra's** (greedy) and **Bellman-Ford** (dynamic programming). The comparison sheds light on their time complexities and use cases based on graph properties.  
 
+---
+
+### **_LAB-7: 0/1 Knapsack Problem - Greedy vs Dynamic Programming_** 🎒
+#### **Topic:**  
+*Analyze the 0/1 Knapsack problem using greedy and dynamic programming approaches.*  
+
+- **Description**:  
+  Both **greedy** and **dynamic programming** methods are implemented for the 0/1 Knapsack problem. Their performance is compared to evaluate trade-offs in accuracy and efficiency.  
+
+---
+
+### **_LAB-8: Subset Sum Problem_** 🧩
+#### **Topic:**  
+*Solve the subset sum problem using recursive and dynamic programming approaches.*  
+
+- **Description**:  
+  This lab focuses on the **subset sum problem**, where subsets are selected to achieve a target sum. Both **recursive** and **dynamic programming** techniques are implemented and compared for efficiency.  
+
+---
+
+### **_LAB-9: 0/1 Knapsack - Backtracking vs Branch & Bound_** 🔗
+#### **Topic:**  
+*Compare Backtracking and Branch & Bound approaches for solving the 0/1 Knapsack problem.*  
+
+- **Description**:  
+  This lab explores three techniques for solving the 0/1 Knapsack problem: **Backtracking**, **Branch & Bound**, and **dynamic programming**. The performance and use-case scenarios for each method are analyzed.  
+
+---
+
+### **_LAB-10: String Matching Algorithms_** 🔎
+#### **Topic:**  
+*Compare the Rabin-Karp, Knuth-Morris-Pratt (KMP), and naive string-matching algorithms.*  
+
+- **Description**:  
+  This lab implements three string-matching algorithms: **Rabin-Karp**, **Knuth-Morris-Pratt (KMP)**, and the **naive approach**. Their performance is evaluated in terms of time complexity and suitability for different types of text data.  
 
